@@ -1,0 +1,13 @@
+.DS_Store
+Backbone/bower_components
+communications/node_modules
+firstApp/node_modules
+NodeChat/node_modules
+rabbit_first/node_modules
+rabbit_second/node_modules
+react/bower_components
+redis_first_app/node_modules
+redis_second_app/node_modules
+sales/node_modules
+salesOne/node_modules
+socketRooms/node_modules
