@@ -11,3 +11,5 @@ redis_second_app/node_modules
 sales/node_modules
 salesOne/node_modules
 socketRooms/node_modules
+node/node_modules
+node/api/node_modules

@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Learning basic Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node practice"
+  },
+  "author": "Bello Waheed Babatunde",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
